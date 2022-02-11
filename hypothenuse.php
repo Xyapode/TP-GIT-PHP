@@ -7,6 +7,13 @@
     <title>Hypothénuse</title>
   </head>
   <body>
-    Test
-  </body>
+    <?php
+    echo hypot(3,4) . "<br>";
+    echo hypot(4,6) . "<br>";
+    echo hypot(1,3) . "<br>";
+    echo sqrt(3*3+4*4);
+    ?>
+    </body>
 </html>
+
+
